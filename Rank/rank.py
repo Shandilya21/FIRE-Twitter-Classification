@@ -8,7 +8,8 @@ This is a temporary script file.
 """
 Created on Sat Oct 14 10:16:56 2017
 
-@author: sthita
+@author: Arunav
+@author: Stitha
 """
 
 import numpy as np

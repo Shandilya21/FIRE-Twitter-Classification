@@ -3,5 +3,5 @@ Forum for Information Retrieval (FIRE): Implementation of the statistical machin
 
 
 <p align="center">
-  <img src="https://github.com/Shandilya21/AI-Crux/blob/master/Tweet_Classification.jpg" alt="FIRE"/>
+  <img src="https://github.com/Shandilya21/FIRE-Twitter-Classification/blob/master/Tweet_Classification.jpg" alt="FIRE"/>
 </p>
